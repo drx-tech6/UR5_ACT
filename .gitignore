@@ -1,0 +1,22 @@
+# Conda environments and package cache (local only)
+.conda/
+.conda-pkgs/
+pkgs/
+envs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor / OS
+.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
